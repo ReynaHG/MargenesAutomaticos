@@ -2,17 +2,25 @@
 div{
 width: 200px;
 height: 180px;
-border: 8px solid yellow;
 }
 
 #centrado{
 text-align: center;
 padding: 5px;
+background:red;
+opacity: 0.6;
+box-shadow: -17px 61px 110px 28px #b84c8d;
+border: 8px solid #b84d5b;
 }
-
 
 #izquierda{
 text-align: left;
 padding: 5px;
 margin-left: 300px;
+border: 8px solid red;
+background: yellow;
+}
+
+body{
+	background-image: url(http://www.solofondos.com/wp-content/uploads/2015/12/fondo-otono-2.jpg);
 }
